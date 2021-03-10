@@ -26,10 +26,6 @@ github_username:  chless
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -52,7 +48,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle-top
         title: Neural Bootstrapping Neural Processes
         link: https://github.com/UNIST-LIM-Lab/NBS-NP
         # link_text: Project Website
@@ -65,13 +61,13 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
 
-        description: | # this will include new lines to allow paragraphs
+        description: |
 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle-top
         title: LIM Lab, UNIST
         link: https://github.com/UNIST-LIM-Lab
         # link_text: boringcompany.com
@@ -85,12 +81,12 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: middle-top
         title: UNIST
         caption: 2014 - 2018
         sub_title: Chemical Engineering
         quote: >
-          Ulsan National Institute of Science and Technology
+
         description: | # this will include new lines to allow paragraphs
 
 
