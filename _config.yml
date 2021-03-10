@@ -83,8 +83,16 @@ content:
     content:
       - layout: middle-top
         title: UNIST
+        caption: 2021 - Present
+        sub_title: MS, Artificial Intelligence
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs]
+    content:
+      - layout: middle-top
+        title: UNIST
         caption: 2014 - 2018
-        sub_title: Chemical Engineering
+        sub_title: BS, Chemical Engineering
         quote: >
 
         description: | # this will include new lines to allow paragraphs
