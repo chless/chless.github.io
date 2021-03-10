@@ -44,7 +44,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Greeting, I'm Chanhui Lee, master's student at UNIST, being supervised prof. Sungbin Lim. I'm interested with Deep Reinforcement Learning, neural processes, 3D face reconstruction.
+  Greeting. I'm Chanhui Lee, a master's student at UNIST, being supervised prof. Sungbin Lim. I'm interested with research areas like Deep Reinforcement Learning, neural processes, 3D face reconstruction.
 
 
 
@@ -52,7 +52,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Neural Bootstrapping Neural Processes
         link: https://github.com/UNIST-LIM-Lab/NBS-NP
         # link_text: Project Website
@@ -78,7 +78,7 @@ content:
         sub_title: Master's student
         caption: 2021 - Present
         quote: >
-          Learning Intelligent Machine
+
         description: | # this will include new lines to allow paragraphs
 
 
