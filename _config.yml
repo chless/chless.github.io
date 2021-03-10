@@ -69,7 +69,7 @@ content:
     content:
       - layout: middle-top
         title: LIM Lab, UNIST
-        link: https://github.com/UNIST-LIM-Lab
+        link: 
         # link_text: boringcompany.com
         sub_title: Master's student
         caption: 2021 - Present
