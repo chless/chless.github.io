@@ -50,7 +50,7 @@ content:
     content:
       - layout: middle-top
         title: Neural Bootstrapping Neural Processes
-        link: https://github.com/UNIST-LIM-Lab/NBS-NP
+        link:
         # link_text: Project Website
         additional_links:
           - title:
